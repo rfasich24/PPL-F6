@@ -1,0 +1,15 @@
+h1 {
+  font-family: poppins-bold !important;
+}
+
+h2 {
+  font-family: poppins-semi-bold !important;
+}
+
+h5 {
+  font-family: poppins-semi-bold !important;
+}
+
+.border-radius {
+  border-radius: 25px;
+}
