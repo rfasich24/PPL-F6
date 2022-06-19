@@ -56,7 +56,7 @@ $(document).ready(function(){
     let quantity = $("#quantity").val()
     var _href = $("#tombol-pesan").attr("href");
 
-    $("#tombol-pesan").attr("href", _href + `https://wa.me/6281336797499?text=pembelian item ${product_name} jumlah ${quantity}, dengan jenis ${variasi}, total yang harus dibayarkan Rp ${product_price*quantity}`);
+    $("#tombol-pesan").attr("href", _href + `https://wa.me/6285232848186?text=pembelian item ${product_name} jumlah ${quantity}, dengan jenis ${variasi}, total yang harus dibayarkan Rp ${product_price*quantity}`);
   });
 });
 
